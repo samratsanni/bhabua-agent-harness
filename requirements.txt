@@ -1,0 +1,4 @@
+google-generativeai
+ifcopenshell
+python-dotenv
+numpy
